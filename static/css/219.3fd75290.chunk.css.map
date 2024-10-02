@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/219.3fd75290.chunk.css","mappings":"AAAA,2BACE,YAAa,CACb,QACF,CACA,mDACE,UACF","sources":["components/Messages/Messages.module.css"],"sourcesContent":[".messages {\n  display: flex;\n  gap: 20px;\n}\n.chat_list .active {\n  color: gold;\n}\n.messages_list {\n}\n.message {\n}\n.chat_item {\n}\n"],"names":[],"sourceRoot":""}
